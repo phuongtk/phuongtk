@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phuongtk
-- 👀 I’m interested in ... how to integrate javascript in ms excel
+- 👀 I’m interested in ... javascript and ms excel
 - 🌱 I’m currently learning ... React/Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... phuongtk@gmail.com
